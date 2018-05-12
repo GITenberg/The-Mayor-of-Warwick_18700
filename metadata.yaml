@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8195'
     url: http://www.gutenberg.org/2009/agents/8195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18700#The-Mayor-of-Warwick
 gutenberg_issued: '2006-06-27'
 gutenberg_type: Text
 identifiers:
